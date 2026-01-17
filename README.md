@@ -94,7 +94,7 @@ Revenue experiences strong seasonal spikes in **February and August**, while non
 
 ## 📦 Product & Category Performance
 
-### 🔹 Top 5 Products
+### 🔹 Top Products
 ![Top 5 Products](Top%205%20Products.png)
 
 **Insight:**  
