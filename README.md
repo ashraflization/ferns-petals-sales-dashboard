@@ -1,7 +1,7 @@
 # Ferns & Petals – Sales & Business Analysis Dashboard (Excel)
 
 ## 🖥️ Dashboard Overview
-![Dashboard](report/screenshots/FNP_Dashboard.png)
+![Dashboard](FNP_Dashboard.png)
 
 This project presents an interactive **Excel dashboard** designed to analyze sales performance, customer behavior, and business growth for a gifting e-commerce brand.
 
