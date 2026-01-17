@@ -1,29 +1,11 @@
 # Ferns & Petals – Sales & Business Analysis Dashboard (Excel)
 
-## 📌 Project Overview
-This project presents an end-to-end **sales and business analysis** for a gifting e-commerce brand using **Microsoft Excel**.
-
-The objective of this project was not just to create visual dashboards, but to **answer real business questions** and translate data into **actionable insights** that support decision-making.
-
----
-
-## 🧭 Executive Summary
-![Executive Summary](Executive%20Summary.png)
-
-- **Total Orders:** 1,000  
-- **Total Revenue:** ₹35.2 Lakhs  
-- **Average Order Value:** ₹3,520  
-- **Average Delivery Time:** 5.53 Hours  
-- **Average Monthly Growth:** ~5%  
-
-The business demonstrates strong seasonal demand, premium customer behavior, and steady underlying growth beyond festive spikes.
-
----
-
 ## 🖥️ Dashboard Overview
 ![Dashboard](FNP_Dashboard.png)
 
-An interactive Excel dashboard built using Pivot Tables, slicers, and KPI cards to provide a **360° view of business performance**.
+This project presents an interactive **Excel dashboard** designed to analyze sales performance, customer behavior, and business growth for a gifting e-commerce brand.
+
+The dashboard acts as the starting point for the analysis, offering a **high-level view** before drilling down into KPIs, trends, and insights—following a clear, business-first storytelling flow.
 
 ---
 
@@ -36,7 +18,7 @@ An interactive Excel dashboard built using Pivot Tables, slicers, and KPI cards 
 What is our current market reach and the overall scale of customer demand?
 
 **Insight:**  
-Processing 1,000 orders indicates stable and consistent demand across multiple regions.
+Processing **1,000 orders** indicates stable and consistent demand across multiple regions.
 
 ---
 
@@ -47,7 +29,7 @@ Processing 1,000 orders indicates stable and consistent demand across multiple r
 How strong is the business financially in terms of top-line performance?
 
 **Insight:**  
-₹35.2L in revenue confirms strong monetization and scalability of the business model.
+Generating **₹35.2 Lakhs** in revenue confirms strong monetization and scalability of the business model.
 
 ---
 
@@ -58,7 +40,7 @@ How strong is the business financially in terms of top-line performance?
 How efficient is our order fulfillment process?
 
 **Insight:**  
-An average delivery time of 5.53 hours reflects reliable operational performance in the gifting industry.
+An average delivery time of **5.53 hours** reflects reliable operational performance in the gifting industry.
 
 ---
 
@@ -69,7 +51,7 @@ An average delivery time of 5.53 hours reflects reliable operational performance
 What is the average monetary value a customer brings per transaction?
 
 **Insight:**  
-An AOV of ₹3,520 indicates a mid-to-premium customer base.
+An average order value of **₹3,520** indicates a mid-to-premium customer base.
 
 ---
 
@@ -80,7 +62,7 @@ An AOV of ₹3,520 indicates a mid-to-premium customer base.
 Is the business growing sustainably beyond seasonal spikes?
 
 **Insight:**  
-After normalizing seasonal outliers, the business shows a steady ~5% average monthly growth.
+After adjusting for seasonal outliers, the business shows a steady **~5% average monthly growth**, indicating healthy long-term momentum.
 
 ---
 
@@ -90,7 +72,7 @@ After normalizing seasonal outliers, the business shows a steady ~5% average mon
 ![Revenue by Occasions](Revenue%20by%20Occasions.png)
 
 **Insight:**  
-Anniversary, Raksha Bandhan, and Holi together contribute over 60% of total revenue, reflecting both year-round and seasonal demand.
+Anniversary, Raksha Bandhan, and Holi together contribute **over 60% of total revenue**, reflecting a mix of year-round personal gifting and seasonal spikes.
 
 ---
 
@@ -98,7 +80,7 @@ Anniversary, Raksha Bandhan, and Holi together contribute over 60% of total reve
 ![Revenue by Hours](Revenue%20by%20Hours.png)
 
 **Insight:**  
-Customer activity peaks during evening and late-night hours, indicating gifting decisions are often made after work hours.
+Customer activity peaks during **evening and late-night hours**, suggesting gifting decisions are often made after work hours.
 
 ---
 
@@ -106,7 +88,7 @@ Customer activity peaks during evening and late-night hours, indicating gifting 
 ![Revenue Trends](Revenue%20Trends.png)
 
 **Insight:**  
-Revenue shows strong seasonal spikes in February and August, while baseline months remain stable.
+Revenue experiences strong seasonal spikes in **February and August**, while non-peak months maintain a stable baseline.
 
 ---
 
@@ -116,7 +98,7 @@ Revenue shows strong seasonal spikes in February and August, while baseline mont
 ![Top 5 Products](Top%205%20Products.png)
 
 **Insight:**  
-Revenue is evenly distributed across top products, reducing dependency on a single product.
+Revenue is well-distributed across top products, reducing dependency on any single item.
 
 ---
 
@@ -124,7 +106,7 @@ Revenue is evenly distributed across top products, reducing dependency on a sing
 ![Revenue by Category](Revenue%20by%20Category.png)
 
 **Insight:**  
-Colors, Soft Toys, and Sweets dominate revenue, while Mugs and Plants present cross-selling opportunities.
+Categories like **Colors, Soft Toys, and Sweets** dominate revenue, while **Mugs and Plants** present cross-selling opportunities.
 
 ---
 
@@ -132,7 +114,21 @@ Colors, Soft Toys, and Sweets dominate revenue, while Mugs and Plants present cr
 ![Geographic Performance](Geographic%20Performance.png)
 
 **Insight:**  
-Tier-2 and Tier-3 cities such as Imphal and Dhanbad outperform expectations, highlighting untapped non-metro demand.
+Tier-2 and Tier-3 cities such as **Imphal and Dhanbad** outperform expectations, highlighting strong non-metro demand.
+
+---
+
+## 🧭 Executive Summary
+![Executive Summary](Executive%20Summary.png)
+
+- **Total Orders:** 1,000  
+- **Total Revenue:** ₹35.2 Lakhs  
+- **Average Order Value:** ₹3,520  
+- **Average Delivery Time:** 5.53 Hours  
+- **Average Monthly Growth:** ~5%  
+
+**Big Picture:**  
+Despite strong seasonal spikes, the business demonstrates **steady underlying growth**, premium customer behavior, and clear opportunities for operational optimization and revenue stabilization.
 
 ---
 
@@ -162,4 +158,4 @@ Tier-2 and Tier-3 cities such as Imphal and Dhanbad outperform expectations, hig
 ---
 
 ## 🧠 Final Note
-This project demonstrates how **Excel can be used as a powerful analytics tool** to drive business decisions when combined with structured thinking and storytelling.
+This project demonstrates how **Excel can be used as a powerful analytics tool** to drive business decisions when combined with structured thinking and structured storytelling.
