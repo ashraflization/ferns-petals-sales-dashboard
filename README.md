@@ -1,7 +1,7 @@
 # Ferns & Petals – Sales & Business Analysis Dashboard (Excel)
 
 ## 🖥️ Dashboard Overview
-![Dashboard](FNP_Dashboard.png)
+![Dashboard](report/screenshots/FNP_Dashboard.png)
 
 This project presents an interactive **Excel dashboard** designed to analyze sales performance, customer behavior, and business growth for a gifting e-commerce brand.
 
@@ -12,7 +12,7 @@ The dashboard acts as the starting point for the analysis, offering a **high-lev
 ## 📊 Key KPIs & Business Questions
 
 ### 🔹 Total Orders
-![Total Orders](Total_Order.png)
+![Total Orders](report/screenshots/Total_Order.png)
 
 **Business Question:**  
 What is our current market reach and the overall scale of customer demand?
@@ -23,7 +23,7 @@ Processing **1,000 orders** indicates stable and consistent demand across multip
 ---
 
 ### 🔹 Total Revenue
-![Total Revenue](Total_Revenue.png)
+![Total Revenue](report/screenshots/Total_Revenue.png)
 
 **Business Question:**  
 How strong is the business financially in terms of top-line performance?
@@ -34,7 +34,7 @@ Generating **₹35.2 Lakhs** in revenue confirms strong monetization and scalabi
 ---
 
 ### 🔹 Order / Delivery Time
-![Order Delivery Time](Order_Delivery_Time.png)
+![Order Delivery Time](report/screenshots/Order_Delivery_Time.png)
 
 **Business Question:**  
 How efficient is our order fulfillment process?
@@ -45,7 +45,7 @@ An average delivery time of **5.53 hours** reflects reliable operational perform
 ---
 
 ### 🔹 Average Spending
-![Average Spending](Average_Spending.png)
+![Average Spending](report/screenshots/Average_Spending.png)
 
 **Business Question:**  
 What is the average monetary value a customer brings per transaction?
@@ -56,7 +56,7 @@ An average order value of **₹3,520** indicates a mid-to-premium customer base.
 ---
 
 ### 🔹 Average Monthly Growth
-![Average Monthly Growth](Average_Monthly_Growth.png)
+![Average Monthly Growth](report/screenshots/Average_Monthly_Growth.png)
 
 **Business Question:**  
 Is the business growing sustainably beyond seasonal spikes?
@@ -69,7 +69,7 @@ After adjusting for seasonal outliers, the business shows a steady **~5% average
 ## 🎉 Revenue Drivers & Customer Behavior
 
 ### 🔹 Revenue by Occasions
-![Revenue by Occasions](Revenue%20by%20Occasions.png)
+![Revenue by Occasions](report/screenshots/Revenue%20by%20Occasions.png)
 
 **Insight:**  
 Anniversary, Raksha Bandhan, and Holi together contribute **over 60% of total revenue**, reflecting a mix of year-round personal gifting and seasonal spikes.
@@ -77,7 +77,7 @@ Anniversary, Raksha Bandhan, and Holi together contribute **over 60% of total re
 ---
 
 ### 🔹 Revenue by Hours
-![Revenue by Hours](Revenue%20by%20Hours.png)
+![Revenue by Hours](report/screenshots/Revenue%20by%20Hours.png)
 
 **Insight:**  
 Customer activity peaks during **evening and late-night hours**, suggesting gifting decisions are often made after work hours.
@@ -85,7 +85,7 @@ Customer activity peaks during **evening and late-night hours**, suggesting gift
 ---
 
 ### 🔹 Revenue Trends (Monthly)
-![Revenue Trends](Revenue%20Trends.png)
+![Revenue Trends](report/screenshots/Revenue%20Trends.png)
 
 **Insight:**  
 Revenue experiences strong seasonal spikes in **February and August**, while non-peak months maintain a stable baseline.
@@ -95,7 +95,7 @@ Revenue experiences strong seasonal spikes in **February and August**, while non
 ## 📦 Product & Category Performance
 
 ### 🔹 Top Products
-![Top 5 Products](Top%205%20Products.png)
+![Top 5 Products](report/screenshots/Top%205%20Products.png)
 
 **Insight:**  
 Revenue is well-distributed across top products, reducing dependency on any single item.
@@ -103,7 +103,7 @@ Revenue is well-distributed across top products, reducing dependency on any sing
 ---
 
 ### 🔹 Revenue by Category
-![Revenue by Category](Revenue%20by%20Category.png)
+![Revenue by Category](report/screenshots/Revenue%20by%20Category.png)
 
 **Insight:**  
 Categories like **Colors, Soft Toys, and Sweets** dominate revenue, while **Mugs and Plants** present cross-selling opportunities.
@@ -111,7 +111,7 @@ Categories like **Colors, Soft Toys, and Sweets** dominate revenue, while **Mugs
 ---
 
 ## 🌍 Geographic Performance
-![Geographic Performance](Geographic%20Performance.png)
+![Geographic Performance](report/screenshots/Geographic%20Performance.png)
 
 **Insight:**  
 Tier-2 and Tier-3 cities such as **Imphal and Dhanbad** outperform expectations, highlighting strong non-metro demand.
@@ -119,7 +119,7 @@ Tier-2 and Tier-3 cities such as **Imphal and Dhanbad** outperform expectations,
 ---
 
 ## 🧭 Executive Summary
-![Executive Summary](Executive%20Summary.png)
+![Executive Summary](report/screenshots/Executive%20Summary.png)
 
 - **Total Orders:** 1,000  
 - **Total Revenue:** ₹35.2 Lakhs  
